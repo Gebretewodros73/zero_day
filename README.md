@@ -1,1 +1,1 @@
-this is my first read me using interface
+command out put uname without option
